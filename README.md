@@ -15,7 +15,7 @@ const aboutMe = {
     preProcessors: ["SCSS"]
   },
   
-  currentlyWorkingOn: "Learning React js",
+  currentlyWorkingOn: "Learning React js and Redux",
   lookingToCollaborateOn: "ecommerce project",
   lookingForHelpWith: "Learning Back-end development",
   
