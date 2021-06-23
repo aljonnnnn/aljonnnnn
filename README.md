@@ -15,8 +15,7 @@ const aboutMe = {
     preProcessors: ["SCSS"]
   },
   
-  currentlyWorkingOn: "Learning React js and Redux",
-  lookingToCollaborateOn: "ecommerce project",
+  currentlyWorkingOn: "Learning tailwindcss",
   lookingForHelpWith: "Learning Back-end development",
   
   myPortfolio: "https://delumenaljon-portfolio.vercel.app/",
