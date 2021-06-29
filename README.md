@@ -2,8 +2,7 @@
 ```javascript
 const aboutMe = {
   name: "Aljon De Lumen",
-  title: "Front-end Developer",
-  age: 19,
+  title: "Front-End Developer",
   nationality: "Filipino",
   
   
@@ -15,8 +14,7 @@ const aboutMe = {
     preProcessors: ["SCSS"]
   },
   
-  currentlyWorkingOn: "Learning tailwindcss",
-  lookingForHelpWith: "Learning Back-end development",
+  lookingForHelpWith: "Learning Back-End development",
   
   myPortfolio: "https://delumenaljon-portfolio.vercel.app/",
 }
